@@ -254,7 +254,7 @@ background-size: contain;
 
 }
 .a-2{
-    background-image: url('/img/map-locator.gif');
+    background-image: url("im/map-locator.gif");
     background-size: contain;
 }
 .a-3{
