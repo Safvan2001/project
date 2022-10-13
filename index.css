@@ -1,0 +1,270 @@
+body{
+    background-image: url('img/');
+    background-size: cover;
+    margin: 0;
+    font-family: gotham-book;
+    background-image: url('img/2632488.jpg');
+    background-size: contain;
+}
+.head-1{
+    height: 350px;
+    background-image: url('img/FOC-Website\ Banner.png');
+    background-size: contain;
+ 
+}
+
+.head-2{
+    height: 68px;
+    background-color: white;
+ position: sticky;
+    top: 0%;
+    
+}
+.im-1{
+    height: 40px;
+    padding-left: 50px;
+    padding-top: 19px;
+}
+
+.links{
+    margin-top: -35px;
+    margin-left: 135px;
+    color: #dc4348;
+    font-family: gotham-book;
+    font-size: 12px;
+    cursor: pointer;
+}
+.logo-2{
+    height: 13px;
+    position: absolute;
+}
+.fa-solid, .fa{
+    margin-left: 795px;
+    position: absolute;
+    margin-top: -23px;
+   position: absolute;
+    height: 15px;
+    cursor: pointer;
+}
+.logo-3{
+    height: 15px;
+    margin-left: 831px;
+    position: absolute;
+    margin-top: -23px;
+   cursor: pointer;
+   
+}
+.l{
+    margin-left: 865px;
+}
+.im-main{
+    width: 100%;
+}
+.center-1{
+    display: flex;
+
+   
+}
+.a{
+    width: 310px;
+    height: 300px;
+    /* background-color: aqua; 
+     border: white solid; */
+}
+.c-1{
+    width: 100%;
+}
+.center-2{
+    height: 288px;
+    /* background-color: black; */
+}
+.im-4{
+    height: 150px;
+    margin-left: 300px;
+    padding-top: 54px;
+}
+.footer-1{
+    height: 75px;
+    background-color: white;
+    
+}
+.m{
+    height: 27px;
+    padding-top: 22px;
+   cursor: pointer;
+   
+}
+.m-1{
+    margin-left: 42%;
+}
+.footer-2{
+height: 300px;
+background-color: white;
+display: flex;
+font-family: gotham-book;
+
+}
+.z{
+    padding: 5px;
+    width: 25%;
+    height: 160px;
+    /* background-color: #dc4348; */
+    margin-top: 25px;
+    padding-left: 37px;
+}
+h6{
+    color: #838282;
+    padding-left: 30px;
+}
+a{
+    color: #838282;
+    font-size: 10px;
+    padding-left: 31px;
+    position: absolute;
+    margin-top: -11px;
+    text-decoration: none;
+}
+hr{
+    width: 90%;
+}
+.w{
+    position: absolute;
+    margin-top: -84px;
+    margin-left: 61px;
+}
+.p-1{
+    color: #838282;
+    margin-top: -53px;
+    font-size: 10px;
+    margin-left: 60px;
+
+}
+.b1{
+    background-color: #dc4348;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    height: 31px;
+    width: 117px;
+    /* position: absolute; */
+    margin-left: 32%;
+    margin-top: 86%;
+    cursor: pointer;
+}
+button:hover{
+color: #dc4348;
+background-color: white;
+height: 40px;
+width: 130px;
+    
+}
+.b2{
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+    
+    height: 31px;
+    
+    color: orange;
+    width: 150px;
+    cursor: pointer;
+    margin-left: 14px;
+    margin-top: 13px;
+}
+.center-3{
+    height: 350px;
+    background-image: url("img/1920x760\ \(1\).jpg");
+    background-size: contain;
+    
+}
+.page-1{
+    height: 300px;
+    /* position: absolute; */
+    width: 250px;
+    margin-top: 23px;
+    margin-left: 71%;
+    padding-top: 14px;
+    /* background-color: #dc4348; */
+    
+
+}
+
+h1{
+    text-align: center;
+}
+.input{
+    border: none;
+    border-radius: 3px;
+    width: 235px;
+}
+label{
+     font-size: 12px;
+}
+.lb{
+    margin-left: -3px;
+    font-size: 9px;
+    height: 17px;
+    width: 11px;
+}
+.lb-1{
+   
+}
+.but{
+    background-color: rgb(240, 94, 41);
+    border: none;
+    margin-left: 38%;
+    height: 29px;
+    width: 72px;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+}
+.link-a{
+   color: white;
+    text-decoration: underline;
+    margin-left: -29px;
+}
+.p-l{
+    font-size: 10px;
+    margin-top: -12px;
+    color: white;
+    
+}
+.k-1{
+    color: white;
+    margin-left: -17px;
+    text-decoration: underline;
+}
+.span{
+    margin-left: 87px;
+    font-size: 13px;
+    position: absolute;
+    margin-top: -12px;
+    color: white;
+}
+
+.pri{
+    margin-left: 63px;
+    color: white;
+    text-decoration: underline;
+}
+.a-1{
+   background-image: url('https://www.cafecoffeeday.com/sites/default/files/What%2527sNew-Open-copy_0.gif');
+background-size: contain;
+
+}
+.a-2{
+    background-image: url('/img/map-locator.gif');
+    background-size: contain;
+}
+.a-3{
+    background-image: url('img/Shop\ now\ gif\ new.gif');
+    background-size: contain;
+}
+.sa{
+    height: 60px;
+    width: 187px;
+    margin-top: 12px;
+    margin-left: 41%;
+    /* background-color: aqua; */
+}
